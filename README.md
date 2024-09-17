@@ -1,1 +1,2 @@
-# Hello I'm Abdallah Rabie Software Engineer and Computer Science Student.
+# Welcome to my profile, I'm Abdallah.
+Data Analyst
