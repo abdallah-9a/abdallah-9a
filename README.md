@@ -1,2 +1,2 @@
 # Welcome to my profile, I'm Abdallah.
-Data Analyst
+<p align = "center">Data Analyst </p>
